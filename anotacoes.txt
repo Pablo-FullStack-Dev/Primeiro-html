@@ -1,0 +1,25 @@
+1 - Nome completo:
+Use um título para apresentar seu nome completo.
+
+2 - Sobre mim:
+Descreva um pouco sobre você.
+
+3 - Formação Acadêmica:
+Coloque os cursos superiores e técnicos e/ou médio que você
+possui. Caso esteja cursando algum curso é interessante citar.
+
+4 - Experiência Profissional:
+Fale um pouco sobre a sua experiência profissional, o período
+que você esteve na empresa e as atividades exercidas.
+
+5 - Soft-Skills:
+Cite 5 soft-skills que mais te define.
+
+6 - Cursos e Aprimoramentos:
+Cursos de extensões são bem interessantes na
+construção de um currículo.
+
+7 - Projetos:
+Já concluiu algum projeto de programação ou de
+algum outro projeto? Caso não tenha, cite alguma
+atividade voluntaria.
